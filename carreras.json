@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "645d577ba87d8306bf0fd76c"
+  },
+  "carrera": "Ingenieria en desarrollo de software",
+  "descripcion": "Carrera enfocada en el desarrollo de software y tecnologías de la info…",
+  "departamento": "Ingenieria"
+},{
+  "_id": {
+    "$oid": "645d58f7a87d8306bf0fd76e"
+  },
+  "carrera": "Ingenieria en Mecatronica",
+  "descripcion": "Hacen Robots",
+  "departamento": "Ingenieria"
+},{
+  "_id": {
+    "$oid": "645d5b5ea87d8306bf0fd778"
+  },
+  "carrera": "Gastronomía",
+  "descripcion": "cocinan",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "645d69f8106d0dde122b214b"
+  },
+  "carrera": "Psicologia",
+  "descripcion": "Carrera enfocada en el estudio de la psique humana",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "645d9193106d0dde122b215f"
+  },
+  "carrera": "admin",
+  "descripcion": "",
+  "departamento": ""
+},{
+  "_id": {
+    "$oid": "646000db2ab4cb30ebb5ed19"
+  },
+  "carrera": "Electronica y Comunicaciones",
+  "descripcion": "Carrera enfocada en el estudio electronica y la comunicaciones",
+  "departamento": "Ingenieria"
+},{
+  "_id": {
+    "$oid": "6460148b2ab4cb30ebb5ed1e"
+  },
+  "carrera": "Licenciatura en Comunicaciones",
+  "descripcion": "Carrera enfocada en las comunicaciones",
+  "departamento": "Licenciatura"
+},{
+  "_id": {
+    "$oid": "64603376ba152142c7096116"
+  },
+  "carrera": "Derecho",
+  "descripcion": "Aprenden de leyes",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "646034e6ba152142c7096117"
+  },
+  "carrera": "Diseño grafico",
+  "descripcion": "Diseñan ",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "646035a7ba152142c7096118"
+  },
+  "carrera": "Periodismo",
+  "descripcion": "Investigan hechos",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "64603e37ba152142c7096122"
+  },
+  "carrera": "Medicina",
+  "descripcion": "TIenen un amplio esquema, pero estudian el ser humano y se encargan de su salud",
+  "departamento": "Humanidades"
+},{
+  "_id": {
+    "$oid": "646043baba152142c7096126"
+  },
+  "carrera": "Aeroespacial",
+  "descripcion": "Vuelan cosas en el espacio y ven ovnis",
+  "departamento": "Ingenieria"
+}]

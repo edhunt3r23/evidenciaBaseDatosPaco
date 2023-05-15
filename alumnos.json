@@ -1,0 +1,194 @@
+[{
+  "_id": {
+    "$oid": "645d6972a87d8306bf0fd77f"
+  },
+  "nombre": "Jose",
+  "apellidos": "Perez",
+  "fecha_nac": "03/09/2003",
+  "estatus": "Inscrito",
+  "email": "pepepe@gmail.com",
+  "telefono": "8123491",
+  "direccion": "Santiago, NL",
+  "carrera": "Gastronomía"
+},{
+  "_id": {
+    "$oid": "645d7211a87d8306bf0fd787"
+  },
+  "nombre": "Olaf",
+  "apellidos": "Perez",
+  "fecha_nac": "09/11/2004",
+  "estatus": "Inscrito",
+  "email": "edsonp12@gmail.com",
+  "telefono": "435345345",
+  "direccion": "Juarez, NL",
+  "carrera": "Ingenieria en desarrollo de software"
+},{
+  "_id": {
+    "$oid": "645d8c69a87d8306bf0fd789"
+  },
+  "nombre": "Joaqui",
+  "apellidos": "De Iturbide",
+  "fecha_nac": "25/10/1968",
+  "estatus": "No inscrito",
+  "email": "joaquiturbide@gmail.com",
+  "telefono": "5325434523",
+  "direccion": "Cadereyta, NL",
+  "carrera": "Ingenieria en Mecatronica"
+},{
+  "_id": {
+    "$oid": "645d99e6a87d8306bf0fd78d"
+  },
+  "nombre": "Admin",
+  "apellidos": "Admin",
+  "fecha_nac": null,
+  "estatus": null,
+  "email": "admin",
+  "telefono": null,
+  "direccion": null,
+  "carrera": "admin"
+},{
+  "_id": {
+    "$oid": "645e71c64b15a3e6b9022f16"
+  },
+  "nombre": "Luis",
+  "apellidos": "Quintanilla",
+  "fecha_nac": "2003-04-16",
+  "estatus": "inscrito",
+  "email": "luisq@gmail.com",
+  "telefono": "324436456",
+  "direccion": "Zuazua",
+  "carrera": "Ingenieria en desarrollo de software"
+},{
+  "_id": {
+    "$oid": "645e735f4b15a3e6b9022f17"
+  },
+  "nombre": "Pato",
+  "apellidos": "Guerra",
+  "fecha_nac": "2003-05-10",
+  "estatus": "inscrito",
+  "email": "patog@gmail.com",
+  "telefono": "323252345",
+  "direccion": "Zuazua",
+  "carrera": "Ingenieria en desarrollo de software"
+},{
+  "_id": {
+    "$oid": "645e94de4b15a3e6b9022f19"
+  },
+  "nombre": "Roberto",
+  "apellidos": "Mireles",
+  "fecha_nac": "2002-03-12",
+  "estatus": "Inscrito",
+  "email": "robermi@gmail.com",
+  "telefono": "23545643",
+  "direccion": "aksljdflñk",
+  "carrera": "Ingenieria en desarrollo de software"
+},{
+  "_id": {
+    "$oid": "645eaec74b15a3e6b9022f1a"
+  },
+  "nombre": "Natalia",
+  "apellidos": "Robles",
+  "fecha_nac": "23-02-2002",
+  "estatus": "Inscrito",
+  "email": "natrob@gmail.com",
+  "telefono": "23094",
+  "direccion": "Monterrey, Nuevo Leon",
+  "carrera": "Ingenieria en Mecatronica"
+},{
+  "_id": {
+    "$oid": "645eb2924b15a3e6b9022f1c"
+  },
+  "nombre": "Belinda",
+  "apellidos": "Andrade",
+  "fecha_nac": "1975-12-23",
+  "estatus": "No Inscrito",
+  "email": "bandrade@gmail.com",
+  "telefono": "293438",
+  "direccion": "Monterrey, Nuevo Leon",
+  "carrera": "Medicina"
+},{
+  "_id": {
+    "$oid": "645ed849ba152142c70960f4"
+  },
+  "nombre": "Paco",
+  "apellidos": "Gomez",
+  "fecha_nac": "1976-09-18",
+  "estatus": "Inscrito",
+  "email": "pacogod@gmail.com",
+  "telefono": "983547348",
+  "direccion": "lñaksjdflksjadf",
+  "carrera": "Ingenieria en desarrollo de software"
+},{
+  "_id": {
+    "$oid": "645f0773ba152142c7096105"
+  },
+  "nombre": "Edgar",
+  "apellidos": "Robles",
+  "fecha_nac": "9234-04-23",
+  "estatus": "No Inscrito",
+  "email": "edandrade@gmail.com",
+  "telefono": "53452345",
+  "direccion": "ksajdfkljasdklfj",
+  "carrera": "Ingenieria en Mecatronica"
+},{
+  "_id": {
+    "$oid": "645f0864ba152142c7096107"
+  },
+  "nombre": "Juan",
+  "apellidos": "Escutia",
+  "fecha_nac": "2932-04-23",
+  "estatus": "Inscrito",
+  "email": "jescutia@gmail.com",
+  "telefono": "4534598",
+  "direccion": "sdfsadfdsf",
+  "carrera": "Ingenieria en Mecatronica",
+  "Apellido": null
+},{
+  "_id": {
+    "$oid": "645ffdb2ba152142c709610d"
+  },
+  "nombre": "Diego",
+  "apellidos": "Rodriguez",
+  "fecha_nac": "2003-01-03",
+  "estatus": "No Inscrito",
+  "email": "drdz@gmail.com",
+  "telefono": "9084290384",
+  "direccion": "Matamoros",
+  "carrera": "Ingenieria en Mecatronica"
+},{
+  "_id": {
+    "$oid": "646009ceba152142c709610e"
+  },
+  "nombre": "Edson",
+  "apellidos": "Fuentes",
+  "fecha_nac": "3232-04-12",
+  "estatus": "Inscrito",
+  "email": "edsentes@gmail.com",
+  "telefono": "14709134",
+  "direccion": "kljasdflkjaskljdf",
+  "carrera": "Electronica y Comunicaciones"
+},{
+  "_id": {
+    "$oid": "64600a5bba152142c709610f"
+  },
+  "nombre": "Raul",
+  "apellidos": "Martinez",
+  "fecha_nac": "1986-03-12",
+  "estatus": "Inscrito",
+  "email": "rmtz@gmail.com",
+  "telefono": "87096987",
+  "direccion": "jkhjlkhkjlhlkj",
+  "carrera": "Electronica y Comunicaciones"
+},{
+  "_id": {
+    "$oid": "6460375bba152142c7096119"
+  },
+  "nombre": "Rogelio",
+  "apellidos": "Almaguer",
+  "fecha_nac": "1988-03-12",
+  "estatus": "Inscrito",
+  "email": "roalmg@gmail.com",
+  "telefono": "92034809384",
+  "direccion": "fasfsdfasfd",
+  "carrera": "Gastronomía"
+}]

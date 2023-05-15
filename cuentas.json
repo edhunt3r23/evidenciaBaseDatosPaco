@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "645d99e6a87d8306bf0fd78e"
+  },
+  "correo": "admin",
+  "password": "1223",
+  "alumno_id": {
+    "$oid": "645d99e6a87d8306bf0fd78d"
+  }
+},{
+  "_id": {
+    "$oid": "645ffd84ba152142c709610c"
+  },
+  "correo": "edsonp12@gmail.com",
+  "password": "changuitos123",
+  "alumno_id": {
+    "$oid": "645d7211a87d8306bf0fd787"
+  }
+},{
+  "_id": {
+    "$oid": "64603f00ba152142c7096123"
+  },
+  "correo": "edandrade@gmail.com",
+  "password": "hola12",
+  "alumno_id": {
+    "$oid": "645f0773ba152142c7096105"
+  }
+},{
+  "_id": {
+    "$oid": "64603f45ba152142c7096124"
+  },
+  "correo": "ramonv@gmail.com",
+  "password": "12e",
+  "alumno_id": {
+    "$oid": "645eda4dba152142c70960f5"
+  }
+},{
+  "_id": {
+    "$oid": "64606a4eba152142c709612f"
+  },
+  "correo": "roalmg@gmail.com",
+  "password": "e12",
+  "alumno_id": {
+    "$oid": "6460375bba152142c7096119"
+  }
+}]
