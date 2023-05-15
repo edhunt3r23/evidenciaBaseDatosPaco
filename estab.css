@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    min-height: 150vh;
+    background: linear-gradient(to right, #33995d, #ff8c00);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    border: solid lpx rgb(18, 1, 1,0.3);
+    
+}
+table {
+    color: #fff;
+    font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+thead {
+    background: rgba(243, 140, 210, 0.4);
+}
+
+th {
+    padding: 20px 15px ;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 15px;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.4);
+}
+
+
+tbody tr {
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background: rgba(243, 103, 199, 0.3);
+}
+h2{
+    color: #fff;
+}
